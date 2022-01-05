@@ -55,7 +55,7 @@ using namespace std;
             
             break;
             case 2:
-            cout<<"will out"<<endl;
+            
             patient::outputdata();
             break;
             case 3:
