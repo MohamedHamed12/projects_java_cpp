@@ -5,5 +5,5 @@ after every project I learned a lot  even if I do not add these experiences to t
 there is more than programming language  
 such 
 ## [java](https://github.com/MohamedHamed12/projects_java_cpp_python/tree/main/java)
-## CPP  
-## python
+## [CPP](https://github.com/MohamedHamed12/projects_java_cpp_python/tree/main/c%2B%2B) 
+## [python](https://github.com/MohamedHamed12/projects_java_cpp_python/tree/main/python)
